@@ -1,0 +1,10 @@
+This dataset is based on Cora dataset.
+
+dr_yahoo_0 contains the graph: each edge weight follows a beta distribution with parameter (alpha, beta).
+Each line contains one edge: (node1, node2, alpha, beta, mean_weight)
+
+dr_yahoo_0_train_10000_0.1_200 contains the nodes pairs, and their shortest path.
+Each line contains one pair ([input nodes], [solution by greedy algorithm])
+
+The features are from the true distribution or the uniform distribution
+https://drive.google.com/drive/folders/13H3K-7fpcEaFwYf1SJdUVuwCYCLEbdVN?usp=sharing
