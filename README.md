@@ -2,4 +2,8 @@
 
 SCO: stochastic combinatorial optimization problem
 
-Consider an optimization problem with an input space $X$, an output space $Y$, and a configuration space $C$
+Three datasets for stochastic combinatorial optimization problem.
+
+Stochastic shortest path
+Stochastic bipartite matching
+Stochastic set cover
