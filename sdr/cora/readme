@@ -1,0 +1,7 @@
+This dataset is based on Cora dataset.
+
+dr_cora contains the graph: each edge weight follows a beta distribution with parameter (alpha, beta).
+Each line contains one edge: (node1, node2, alpha, beta, mean_weight)
+
+dr_cora_train_10000_0 contains the nodes pairs, and their shortest path.
+Each line contains one pair ([input nodes], [solution by greedy algorithm])
