@@ -1,1 +1,7 @@
-This dataset is based on the Colorado graph from http://www.diag.uniroma1.it/challenge9/download.shtml
+This dataset is based on the Colorado graph from http://www.diag.uniroma1.it/challenge9/download.shtml\
+
+ssp_col contains the graph; each edge weight follows a Weibull distribution with parameter (alpha, beta).
+Each line contains one edge: (node1, node2, alpha, beta, mean_weight)
+
+ssp_col_trainAllShuffle contains the nodes pairs, and their shortest path.
+Each line contains one pair (nod1, node2, length_of_shortest_path, [the shortest path as a seqnece of nodes])
