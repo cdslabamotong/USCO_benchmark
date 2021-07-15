@@ -5,3 +5,6 @@ Each line contains one edge: (node1, node2, alpha, beta, mean_weight)
 
 dr_cora_train_10000_0 contains the nodes pairs, and their shortest path.
 Each line contains one pair ([input nodes], [solution by greedy algorithm])
+
+The features are from the true distribution or the uniform distribution
+https://drive.google.com/drive/folders/1kLudz2vXOICl6Wvf2dS3Ev2-UK08n5a0?usp=sharing
