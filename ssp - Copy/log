@@ -1,0 +1,509 @@
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 3.3756
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.9185
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.8860
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.5344
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.7328
+fail ratio: 0.0000
+mean_avg_ratios: 2.6895
+ std_avg_ratios: 0.4754
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:16, featureGenMethod: uniform, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.5555
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.1813
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.0556
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.2856
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.0087
+fail ratio: 0.0000
+mean_avg_ratios: 1.2173
+ std_avg_ratios: 0.1949
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:6400, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+Training 1-slack dual structural SVM
+iteration 0
+self._find_new_constraint RUNNING
+self._find_new_constraint Done
+constrains retrieved 
+computing primal objective
+updating cache tolerance if cache_tol is auto
+cutting plane objective: -9.846492938828345e-09, primal objective 24640312.664100002
+computing final objective
+C:\Users\guang\Documents\Python Scripts\USCO\code and data\ssp/pre_train/SSP/17-05-2021-21-45-41/
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.8834
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.8139
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.8192
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.7955
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.2027
+fail ratio: 0.0000
+mean_avg_ratios: 1.9030
+ std_avg_ratios: 0.1528
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:160, featureGenMethod: true, c:0.0001 
+trainNum:160, testNum:1000 
+===============================================================
+data fetched
+Training 1-slack dual structural SVM
+iteration 0
+self._find_new_constraint RUNNING
+self._find_new_constraint Done
+constrains retrieved 
+computing primal objective
+updating cache tolerance if cache_tol is auto
+cutting plane objective: -4.0023102787917016e-08, primal objective 137847.03620000003
+computing final objective
+C:\Users\guang\Documents\Python Scripts\USCO\code and data\ssp/pre_train/SSP/17-05-2021-21-51-03/
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 2.2202
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.6893
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.0203
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.6838
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.7622
+fail ratio: 0.0000
+mean_avg_ratios: 1.8752
+ std_avg_ratios: 0.2117
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:160, featureGenMethod: uniform, c:0.0001 
+trainNum:160, testNum:1000 
+===============================================================
+data fetched
+===============================================================
+Testing random Started
+Y_pred_total/Y_true_total: 1.8942
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.4683
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.6274
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.7224
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.5454
+fail ratio: 0.0000
+mean_avg_ratios: 1.6515
+ std_avg_ratios: 0.1479
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:160, featureGenMethod: uniform, c:0.0001 
+trainNum:160, testNum:1000 
+===============================================================
+data fetched
+===============================================================
+Testing random Started
+Y_pred_total/Y_true_total: 1.8491
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.0109
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.2817
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.5502
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.9138
+fail ratio: 0.0000
+mean_avg_ratios: 1.9212
+ std_avg_ratios: 0.2370
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:160, featureGenMethod: uniform, c:0.0001 
+trainNum:160, testNum:1000 
+===============================================================
+data fetched
+===============================================================
+Testing NB Started
+Y_pred_total/Y_true_total: 3.4366
+fail ratio: 0.1500
+Y_pred_total/Y_true_total: 1.4739
+fail ratio: 0.0600
+Y_pred_total/Y_true_total: 2.5045
+fail ratio: 0.1100
+Y_pred_total/Y_true_total: 1.4438
+fail ratio: 0.1600
+Y_pred_total/Y_true_total: 1.8055
+fail ratio: 0.1300
+mean_avg_ratios: 2.1329
+ std_avg_ratios: 0.7555
+mean_avg_fail_ratios: 0.1220
+ std_avg_fail_ratios: 0.0354
+col
+featureNum:160, featureGenMethod: uniform, c:0.0001 
+trainNum:160, testNum:100 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.5336
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.0810
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.3026
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.5443
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.2315
+fail ratio: 0.0000
+mean_avg_ratios: 1.3386
+ std_avg_ratios: 0.1786
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:6400, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.0884
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.0668
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.3431
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.3395
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.4828
+fail ratio: 0.0000
+mean_avg_ratios: 1.2641
+ std_avg_ratios: 0.1610
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:6400, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 6.5369
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 6.8248
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 5.4974
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 6.0292
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 7.7716
+fail ratio: 0.0000
+mean_avg_ratios: 6.5320
+ std_avg_ratios: 0.7675
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:16, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 2.3508
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.6228
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.3247
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.5200
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.9251
+fail ratio: 0.0000
+mean_avg_ratios: 1.7487
+ std_avg_ratios: 0.3582
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:160, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.3953
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.1884
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.4407
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.1601
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.4021
+fail ratio: 0.0000
+mean_avg_ratios: 1.3173
+ std_avg_ratios: 0.1181
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:1600, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.4868
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.2054
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.1061
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.1466
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.2115
+fail ratio: 0.0000
+mean_avg_ratios: 1.2313
+ std_avg_ratios: 0.1336
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:3200, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 6.5239
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 6.7615
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 6.8699
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 4.4142
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 3.6090
+fail ratio: 0.0000
+mean_avg_ratios: 5.6357
+ std_avg_ratios: 1.3549
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:16, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 2.0186
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.0917
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.8613
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.0857
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 3.1526
+fail ratio: 0.0000
+mean_avg_ratios: 1.8420
+ std_avg_ratios: 0.7595
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:160, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 2.3125
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.1050
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 5.5768
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 3.5634
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 4.1353
+fail ratio: 0.0000
+mean_avg_ratios: 3.3386
+ std_avg_ratios: 1.5321
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:1600, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 2.0615
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.3650
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.7227
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.6714
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.4895
+fail ratio: 0.0000
+mean_avg_ratios: 1.6620
+ std_avg_ratios: 0.2372
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:3200, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.6992
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.3204
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 4.4747
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.9501
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.9289
+fail ratio: 0.0000
+mean_avg_ratios: 2.2747
+ std_avg_ratios: 1.1231
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:6400, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 5.2283
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 4.0058
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 6.1113
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 6.6737
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 6.3186
+fail ratio: 0.0000
+mean_avg_ratios: 5.6675
+ std_avg_ratios: 0.9579
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:0, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 6.9005
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.3147
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 9.3523
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 3.0574
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 5.9365
+fail ratio: 0.0000
+mean_avg_ratios: 5.5123
+ std_avg_ratios: 2.5731
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:0, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.8542
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.1036
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.9885
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.8893
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.9419
+fail ratio: 0.0000
+mean_avg_ratios: 1.9555
+ std_avg_ratios: 0.0870
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:5760, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.0745
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.0423
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.2273
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.8381
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.4895
+fail ratio: 0.0000
+mean_avg_ratios: 1.7344
+ std_avg_ratios: 0.5896
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:6400, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+data fetched
+===============================================================
+Testing USCO Started
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.0332
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.5220
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.6334
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.8695
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.4377
+fail ratio: 0.0000
+mean_avg_ratios: 1.4991
+ std_avg_ratios: 0.2744
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:6400, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
