@@ -1,1 +1,16 @@
 Stochastic Bipartite Matching
+
+This dataset is a complete graph with 128 nodes
+
+bm_norm_30_128 contains the graph; each edge weight follows a beta distribution with parameter (alpha, beta).
+Each line contains one edge: (node1, node2, alpha, beta, mean_weight)
+
+bm_norm_30_128_train_10000_20 contains the node-set pairs, and their optmial matching.
+Each line contains one pair ([left node set]:[right node set]: [optimal matching])
+
+The features are follows:
+https://drive.google.com/drive/folders/12bhnZBj2dw52BKvwNpE_r3dKoK2HG8FD?usp=sharing
+
+
+
+
