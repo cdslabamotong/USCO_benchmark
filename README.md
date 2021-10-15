@@ -20,3 +20,5 @@ Stochastic shortest path
 Stochastic bipartite matching
 
 Stochastic set cover
+
+Presentation: https://recorder-v3.slideslive.com/?share=48762&s=18001758-e2b6-476a-b6fc-49b320d17bd1
